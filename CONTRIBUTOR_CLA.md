@@ -2,7 +2,7 @@
 
 #### Bitcoin Payment Address
 
-1. **Bitcoin Payment Address**: By contributing to this project, you agree that the Bitcoin payment address provided by the project creator ("Creator") will be used exclusively for payments related to your contributions. This Bitcoin payment address will not be altered or replaced by anyone, including other contributors, without the explicit consent of the Creator.
+1. **Bitcoin Payment Address**: By contributing to this project, you agree that the Bitcoin payment address provided by each contributor will be used exclusively for receiving payments related to their contributions. The creator of the project ("Creator") and other contributors will not make payments from this Bitcoin address on behalf of the contributor.
 
 2. **Privacy and Security**: You understand the importance of safeguarding your Bitcoin payment address and maintaining its accuracy. Any concerns regarding the security or use of your Bitcoin payment address should be communicated directly with the Creator or project administrators.
 
