@@ -1,6 +1,6 @@
 # TechViking: CAD/CAM Bitcoin-Compensated File Sharing Platform
 
-
+![Project Logo](link_to_logo.png)
 
 Welcome to TechViking, the CAD/CAM Bitcoin-Compensated File Sharing Platform! Join us in revolutionizing the world of digital design and manufacturing. Our mission is to create a decentralized ecosystem where innovators, designers, and creators collaborate, share, and benefit from their contributions.
 
